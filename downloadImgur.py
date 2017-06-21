@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+# downloadImgur.py - Downloades all searched images from Imgur.
 import sys
 import requests, os, bs4
 import time
