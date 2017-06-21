@@ -1,0 +1,1 @@
+Opens a Firefox web browser and searches on Imgur with a term/phrase given as the command line argument. Automatically downloads all of the images found and saves them to the hard drive. Tested on macOS Sierra and Firefox 45.0.2. Probably won’t work on the newer versions.
